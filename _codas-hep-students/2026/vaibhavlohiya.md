@@ -1,6 +1,6 @@
 layout: codas-hep-participant
 e-mail: vlohia3@uic.edu
-institution: Univeristy of Illinois Chicago
+institution: University of Illinois Chicago
 name: Vaibhav Lohia
 photo: "/assets/images/codas-hep/2026/Vaibhav-Lohia.jpg"
 github-username: vaibhavlohiya
